@@ -1,0 +1,41 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Knowledge star spark -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M82,24 L83.5,28 L87.5,29.5 L83.5,31 L82,35 L80.5,31 L76.5,29.5 L80.5,28 Z" />
+
+    <!-- Graduation Cap Top diamond -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,26 L26,38 L54,50 L82,38 Z" />
+
+    <!-- Cap lower skull cap -->
+    <path
+        android:fillColor="#E0E0E0"
+        android:pathData="M37,44 L37,52 C37,58 45,63 54,63 C63,63 71,58 71,52 L71,44 L54,51.5 Z" />
+
+    <!-- Tassel cord & drop -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M54,42 L76,46 L76,57 L73,57 L73,48 Z" />
+
+    <!-- Open Book Left Page -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,65 C44,63 34,64 26,67 L26,82 C34,79 44,78 52,80 Z" />
+
+    <!-- Open Book Right Page -->
+    <path
+        android:fillColor="#EEEEEE"
+        android:pathData="M56,65 C64,63 74,64 82,67 L82,82 C74,79 64,78 56,80 Z" />
+
+    <!-- Book Spine / Center Binding -->
+    <path
+        android:fillColor="#90CAF9"
+        android:pathData="M52.5,65.5 L55.5,65.5 L55.5,80.5 L52.5,80.5 Z" />
+</vector>
+

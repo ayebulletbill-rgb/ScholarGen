@@ -1,0 +1,6 @@
+{
+  "name": "Course Generator",
+  "description": "On-demand educational course generator powered by AI with multi-tier scope, interactive flashcards, cumulative examinations, diagnostic grading, and offline storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
